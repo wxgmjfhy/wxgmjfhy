@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-majoring in cs in HITSZ
+- Majoring in `CS` in `HITSZ`
+- `ACMer`
+- Currently learning to be a `Backend Developer`
