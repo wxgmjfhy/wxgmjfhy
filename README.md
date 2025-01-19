@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Majoring in `CS` in `HITSZ`
-- `ACMer`
-- Currently learning to be a `Backend Developer`
+- Majoring in CS in HITSZ.
+- ACMer. And you can find me as "wxgmjfhy" on codeforces, atcoder, luogu, and nowcoder.
+- Currently learning to be a Backend Developer.
