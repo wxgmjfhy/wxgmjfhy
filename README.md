@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 -->
 
 - Majoring in CS in HITSZ.
-- ACMer. And you can find me as "wxgmjfhy" on codeforces, atcoder, luogu, and nowcoder.
+- ACMer. You can find me as "wxgmjfhy" on codeforces, atcoder, luogu, and nowcoder.
 - Currently learning to be a Backend Developer.
